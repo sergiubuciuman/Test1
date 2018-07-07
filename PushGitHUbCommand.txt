@@ -1,0 +1,4 @@
+git remote add githubRepo https://github.com/sergiubuciuman/Javascript.git
+git remote
+git push -u githubRepo master
+Username for 'https://github.com': sergiubuciuman
